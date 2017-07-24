@@ -1,0 +1,19 @@
+.test{
+    height: 100px;
+    width: 750px;
+    font-size: 12px;
+    background: red;
+}
+/**
+ * the image which name is started with '_' will be treated as sprite
+ */
+.sprite{
+    width: 190px;
+    height: 290px;
+    background: url(./image/_1.png)
+}
+.image{
+    width: 190px;
+    height: 290px;
+    background: url(./image/2.png)
+}
